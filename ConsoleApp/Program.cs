@@ -54,7 +54,7 @@ Employee employee4 = new Employee("ömer", "aaaa", 20, 4);
 Employee employee3 = new Employee("ömer", "aaaaa", 23, 5);
 Employee employee5 = new Employee("ömer", "asas", 242, 6);
 Employee employee10 = new Employee("ceto", "erdemli", 20, 8);
-
+Employee em = new Employee();
 
 employeeManager.Add(employee2);
 employeeManager.Add(employee3);
