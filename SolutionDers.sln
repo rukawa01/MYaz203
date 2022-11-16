@@ -5,7 +5,11 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hafta2", "C:\Users\omer5\source\repos\MYaz203\ConsoleApp\hafta2.csproj", "{291F3CF0-9F48-401E-957D-F80517D5E6B5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nesneOdevs", "C:\Users\omer5\source\repos\MYaz203\nesneOdevs\nesneOdevs.csproj", "{FBE71E92-E3AC-41E7-A851-A2FFEFA20473}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hafta3", "C:\Users\omer5\source\repos\MYaz203\nesneOdevs\hafta3.csproj", "{FBE71E92-E3AC-41E7-A851-A2FFEFA20473}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "hafta5", "hafta5", "{71DAE823-53E0-4C65-9D49-7141D069477E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hafta5", "hafta5\hafta5.csproj", "{2CB19FCD-FDA8-4AAE-B464-5341DDFC3FCB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,9 +25,16 @@ Global
 		{FBE71E92-E3AC-41E7-A851-A2FFEFA20473}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBE71E92-E3AC-41E7-A851-A2FFEFA20473}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBE71E92-E3AC-41E7-A851-A2FFEFA20473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CB19FCD-FDA8-4AAE-B464-5341DDFC3FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CB19FCD-FDA8-4AAE-B464-5341DDFC3FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CB19FCD-FDA8-4AAE-B464-5341DDFC3FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CB19FCD-FDA8-4AAE-B464-5341DDFC3FCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2CB19FCD-FDA8-4AAE-B464-5341DDFC3FCB} = {71DAE823-53E0-4C65-9D49-7141D069477E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {373EEFD1-232E-4000-9DC6-478211F155CD}
